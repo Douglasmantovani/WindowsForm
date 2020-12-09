@@ -1,0 +1,10 @@
+-Adicionar e Listar
+-Login de Admin e usuario funcionandoas senhas e emails estao nos seus respectivos Repository
+-"Banco de Dados Temporario" adicionado usando List os dados sao apagados assim q a aplicação é encerrada
+
+Em desenvolvimento:
+-form cadastro
+-terminar o CRUD
+-Colocar regex
+-validaçao de todos os campos preenchidos
+ 

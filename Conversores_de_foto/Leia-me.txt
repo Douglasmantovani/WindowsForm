@@ -1,0 +1,5 @@
+-Rodar o projeto no Desktop para funcionar
+
+-O conversor de foto .Form converte as imagem para uma cadeia de caracteres especiais,ao converter os bytes ficaram salvos no arquivo FotoConvertida.txt
+
+-O conversor de foto Binario converte as imagem para uma cadeia de caracteres numericos,ao converter os bytes ficaram salvos no arquivo FotoConvertidaBinario.txt

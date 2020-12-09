@@ -1,0 +1,15 @@
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\bin\Release\netcoreapp3.1\ConversorDeFotoBinario.exe
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\bin\Release\netcoreapp3.1\ConversorDeFotoBinario.deps.json
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\bin\Release\netcoreapp3.1\ConversorDeFotoBinario.runtimeconfig.json
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\bin\Release\netcoreapp3.1\ConversorDeFotoBinario.runtimeconfig.dev.json
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\bin\Release\netcoreapp3.1\ConversorDeFotoBinario.dll
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\bin\Release\netcoreapp3.1\ConversorDeFotoBinario.pdb
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.Imagen.resources
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.csproj.GenerateResource.cache
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.AssemblyInfo.cs
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.dll
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.pdb
+C:\Users\senai\Desktop\ConversorDeFotoBinario\ConversorDeFotoBinario\obj\Release\netcoreapp3.1\ConversorDeFotoBinario.genruntimeconfig.cache
